@@ -79,7 +79,7 @@ inq
             contribute,
             test
         );
-        writeToFile('README.md', readmeContent);
+        writeToFile('Generated-ReadMe.md', readmeContent);
 
     });
 
