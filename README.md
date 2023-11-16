@@ -38,7 +38,7 @@ I was happy to get a deeper grasp of NodeJS. I find using Inquirer alot of fun a
 ![readme](./assets/images/readme.jpg)
 
 ## Video Demonstration
-[demo]()
+[demo](https://drive.google.com/file/d/148WcLepRJeS6fZtBci4o9W82ttn4-Q_F/view)
 
 ### Source Code
 Source code was provided by UofO bootcamp. Thank you to askBCS for their assistance and guidance as well. 
